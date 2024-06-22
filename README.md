@@ -34,7 +34,7 @@ panel principal
 
 ## CREAR DOCENTE 
 nos permite insertar la información de un docente al sistema.
-<img src="./img/ScreenShots/CrearDocente.png">
+![Perfil_Admin](./img/ScreenShots/VistaAdmin.jpg)
 
 ## CREAR ESTUDIANTE 
 Nos permite ingresar la información de un estudiante al sistema.
